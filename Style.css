@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello Looking To Learn More About Denim?</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: monospace;
+        }
+        .terminal {
+            width: 75%;
+            margin: auto;
+            padding: 20px;
+            background-color: #333;
+            border-radius: 5px;
+        }
+        .command {
+            color: limegreen;
+        }
+        .output {
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="terminal">
+        <p><span class="command">$>_</span> Welcome to my hacker website</p>
+        <p><span class="command">$>_</span> This is a retro design from the early 2000s</p>
+        <p><span class="command">$>_</span> Enjoy your stay!</p>
+    </div>
+</body>
+</html>
